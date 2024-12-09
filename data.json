@@ -1,0 +1,20 @@
+{
+    "3": {
+        "id": "674d0d5c417a5",
+        "nama": "pulpen",
+        "harga": 2000,
+        "stok": 34
+    },
+    "4": {
+        "id": "674d2df3537de",
+        "nama": "sabun",
+        "harga": 3000,
+        "stok": 35
+    },
+    "5": {
+        "id": "675676f002fa0",
+        "nama": "odol",
+        "harga": 15000,
+        "stok": 50
+    }
+}
